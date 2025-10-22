@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.1",
+  "startedAt": "2025-10-15T03:42:05.104569Z",
+  "program": "c:\\Users\\Gamer\\Downloads\\Python\\ALFA UROP\\gepa_github.ipynb",
+  "codePath": "gepa_github.ipynb",
+  "codePathLocal": "gepa_github.ipynb",
+  "git": {
+    "remote": "https://github.com/JonE01/ALFA-UROP.git",
+    "commit": "5bcfc61dd9b23df987bb7e5e7d061fea3b174e73"
+  },
+  "email": "jon.eba08@gmail.com",
+  "root": "c:\\Users\\Gamer\\Downloads\\Python\\ALFA UROP",
+  "host": "BOOK-8ISKP3RTT5",
+  "executable": "c:\\Users\\Gamer\\Downloads\\Python\\ALFA UROP\\.venv\\Scripts\\python.exe",
+  "cpu_count": 12,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1002710233088",
+      "used": "395711893504"
+    }
+  },
+  "memory": {
+    "total": "16718426112"
+  },
+  "writerId": "eqr9qqnyvw6lkk68i9wp77serwbrr614"
+}

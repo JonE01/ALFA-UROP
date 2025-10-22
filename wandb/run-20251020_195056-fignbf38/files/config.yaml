@@ -1,0 +1,49 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            d9zw8flxvfxebqkxi3puixd90g1ihidn:
+                codePath: gepa_github.ipynb
+                codePathLocal: gepa_github.ipynb
+                cpu_count: 12
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "1002710233088"
+                        used: "393284337664"
+                email: jon.eba08@gmail.com
+                executable: c:\Users\Gamer\Downloads\Python\ALFA UROP\.venv\Scripts\python.exe
+                git:
+                    commit: 5bcfc61dd9b23df987bb7e5e7d061fea3b174e73
+                    remote: https://github.com/JonE01/ALFA-UROP.git
+                host: BOOK-8ISKP3RTT5
+                memory:
+                    total: "16718426112"
+                os: Windows-11-10.0.26100-SP0
+                program: c:\Users\Gamer\Downloads\Python\ALFA UROP\gepa_github.ipynb
+                python: CPython 3.12.1
+                root: c:\Users\Gamer\Downloads\Python\ALFA UROP
+                startedAt: "2025-10-20T23:50:56.961864Z"
+                writerId: d9zw8flxvfxebqkxi3puixd90g1ihidn
+        m: []
+        python_version: 3.12.1
+        t:
+            "1":
+                - 49
+                - 51
+                - 95
+                - 105
+            "2":
+                - 49
+                - 51
+                - 95
+                - 105
+            "3":
+                - 2
+            "4": 3.12.1
+            "5": 0.22.2
+            "8":
+                - 1
+                - 3
+            "12": 0.22.2
+            "13": windows-amd64

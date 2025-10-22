@@ -1,2 +1,6 @@
 dspy
 datasets
+wandb
+weave
+sentence_transformers
+numpy
