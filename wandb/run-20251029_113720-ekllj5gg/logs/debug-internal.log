@@ -1,0 +1,28 @@
+{"time":"2025-10-29T11:37:22.9382886-04:00","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-29T11:37:23.5977622-04:00","level":"INFO","msg":"stream: created new stream","id":"ekllj5gg"}
+{"time":"2025-10-29T11:37:23.5983835-04:00","level":"INFO","msg":"handler: started","stream_id":"ekllj5gg"}
+{"time":"2025-10-29T11:37:23.6993723-04:00","level":"INFO","msg":"writer: started","stream_id":"ekllj5gg"}
+{"time":"2025-10-29T11:37:23.6993723-04:00","level":"INFO","msg":"sender: started","stream_id":"ekllj5gg"}
+{"time":"2025-10-29T11:37:23.7049357-04:00","level":"INFO","msg":"stream: started","id":"ekllj5gg"}
+{"time":"2025-10-29T11:46:41.5976138-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T11:48:19.3680998-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T11:49:15.9035614-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T11:49:45.2901595-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T11:57:24.5813383-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":3}
+{"time":"2025-10-29T11:57:24.582542-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T11:58:47.2368377-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T12:00:21.8847278-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T12:01:02.1150615-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T12:07:48.468473-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":4}
+{"time":"2025-10-29T12:07:48.4700425-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T12:09:51.8664568-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T12:11:44.1727205-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T12:12:13.2791499-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T12:20:27.8161144-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":5}
+{"time":"2025-10-29T13:13:21.6976426-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/ekllj5gg/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-10-29T15:34:46.9329228-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/ekllj5gg/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T17:07:58.74063-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/ekllj5gg/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T17:07:59.6573464-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T17:08:01.7153549-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T17:08:01.7153549-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/ekllj5gg/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T19:19:37.260768-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/ekllj5gg/file_stream\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}

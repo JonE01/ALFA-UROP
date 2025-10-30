@@ -1,0 +1,30 @@
+{"time":"2025-10-29T01:33:46.4983538-04:00","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-29T01:33:46.7930098-04:00","level":"INFO","msg":"stream: created new stream","id":"vjs45c0t"}
+{"time":"2025-10-29T01:33:46.7930098-04:00","level":"INFO","msg":"handler: started","stream_id":"vjs45c0t"}
+{"time":"2025-10-29T01:33:46.7960891-04:00","level":"INFO","msg":"writer: started","stream_id":"vjs45c0t"}
+{"time":"2025-10-29T01:33:46.7960891-04:00","level":"INFO","msg":"sender: started","stream_id":"vjs45c0t"}
+{"time":"2025-10-29T01:33:46.7964745-04:00","level":"INFO","msg":"stream: started","id":"vjs45c0t"}
+{"time":"2025-10-29T01:40:49.3335975-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T01:42:39.6071192-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T01:43:16.4727384-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T01:44:22.1052813-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-29T01:50:52.490351-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":3}
+{"time":"2025-10-29T01:50:52.4919884-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T01:51:55.598583-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T01:53:10.7731388-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T01:53:57.080638-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-29T02:00:04.6792166-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":4}
+{"time":"2025-10-29T02:00:04.681059-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T02:02:45.1685588-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T02:03:52.7694568-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T02:04:37.3548021-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-29T02:12:46.4982841-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":5}
+{"time":"2025-10-29T11:34:36.8798543-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/vjs45c0t/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T11:34:39.1084464-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/vjs45c0t/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T11:34:44.1953284-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/joneba-massachusetts-institute-of-technology/ALFA%20UROP/vjs45c0t/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-10-29T11:37:20.4201879-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.0082309}],"total_operations":1}}
+{"time":"2025-10-29T11:37:21.5137562-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-29T11:37:21.772521-04:00","level":"INFO","msg":"stream: closing","id":"vjs45c0t"}
+{"time":"2025-10-29T11:37:21.772521-04:00","level":"INFO","msg":"handler: closed","stream_id":"vjs45c0t"}
+{"time":"2025-10-29T11:37:21.7747999-04:00","level":"INFO","msg":"sender: closed","stream_id":"vjs45c0t"}
+{"time":"2025-10-29T11:37:21.7747999-04:00","level":"INFO","msg":"stream: closed","id":"vjs45c0t"}

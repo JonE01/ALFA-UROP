@@ -1,0 +1,18 @@
+{"time":"2025-10-28T20:36:15.9696579-04:00","level":"INFO","msg":"stream: starting","core version":"0.22.2"}
+{"time":"2025-10-28T20:36:16.2568827-04:00","level":"INFO","msg":"stream: created new stream","id":"2zpfglec"}
+{"time":"2025-10-28T20:36:16.2574352-04:00","level":"INFO","msg":"handler: started","stream_id":"2zpfglec"}
+{"time":"2025-10-28T20:36:16.2609018-04:00","level":"INFO","msg":"stream: started","id":"2zpfglec"}
+{"time":"2025-10-28T20:36:16.2609018-04:00","level":"INFO","msg":"writer: started","stream_id":"2zpfglec"}
+{"time":"2025-10-28T20:36:16.2609018-04:00","level":"INFO","msg":"sender: started","stream_id":"2zpfglec"}
+{"time":"2025-10-28T20:40:43.1172384-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-28T20:41:32.1595676-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-28T20:42:45.2684554-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-28T20:43:12.433172-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":1,"current":2}
+{"time":"2025-10-28T20:49:07.6522317-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":2,"current":3}
+{"time":"2025-10-28T20:55:28.7537111-04:00","level":"WARN","msg":"handler: ignoring partial history record","step":3,"current":4}
+{"time":"2025-10-28T23:50:45.475624-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":0.0051969}],"total_operations":1}}
+{"time":"2025-10-28T23:50:45.947084-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-10-28T23:50:46.1219053-04:00","level":"INFO","msg":"stream: closing","id":"2zpfglec"}
+{"time":"2025-10-28T23:50:46.1219053-04:00","level":"INFO","msg":"handler: closed","stream_id":"2zpfglec"}
+{"time":"2025-10-28T23:50:46.1238878-04:00","level":"INFO","msg":"sender: closed","stream_id":"2zpfglec"}
+{"time":"2025-10-28T23:50:46.1244089-04:00","level":"INFO","msg":"stream: closed","id":"2zpfglec"}
